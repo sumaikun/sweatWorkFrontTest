@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "ApocalypseRegular";
+  src: local("ApocalypseRegular"),
+    url("./assets/fonts/cityscape-font.ttf") format("truetype");
+  font-weight: normal;
+}

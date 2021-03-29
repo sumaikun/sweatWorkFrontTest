@@ -1,0 +1,12 @@
+.app-title{
+    color:white;
+    font-family:ApocalypseRegular;
+    font-size:45px
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) { 
+    .app-title{
+        font-size:4vw;
+    }
+}
